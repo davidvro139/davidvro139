@@ -82,8 +82,7 @@ Over the past 15+ years, I have:
 
 ---
 
-## Software Developer — :contentReference[oaicite:1]{index=1}
-*(formerly Orbital ATK)*
+## Software Developer — Northrop Grumman *(formerly Orbital ATK)*
 
 Worked as a C++ developer in the test systems area developing embedded and server-side engineering tools, including:
 
