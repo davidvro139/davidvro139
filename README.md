@@ -1,174 +1,175 @@
-# Hi, I'm David
+# David
 
-Software developer, educator, and technical program leader with 15+ years of experience in software development, technical education, curriculum design, and department leadership.
+Full-Stack Software Developer | Workflow Automation & Internal Systems | Technical Educator
 
-My background includes embedded systems, desktop applications, business software, databases, web development, and project-based technical education.
+Software developer and technical educator with experience building workflow systems, internal business applications, reporting tools, automation platforms, database-driven software, and educational technology solutions.
 
----
-
-# Approach
-
-I enjoy building practical software systems that solve real problems, improve workflows, and help people learn technical skills through hands-on projects and clear system design.
+My background includes full-stack web development, desktop software, database design, workflow/process automation, embedded systems, reporting systems, and technical instruction. I enjoy building practical systems that improve operational efficiency, reduce manual work, and provide clear visibility through dashboards, automation, and reporting tools.
 
 ---
 
 # Featured Projects
 
-## Attendance Reporting Tool
-Desktop application for importing student attendance records, identifying attendance issues, and generating weekly reporting summaries for instructors and administration.
+## OtechWorkFlow
+Workflow & Request Management System built with ASP.NET Core Blazor, C#, Entity Framework Core, and MySQL.
 
-**Technologies:** C#, WPF, SQL, CSV Processing
+A portfolio-ready workflow automation platform modeled after real educational and operational processes. Features include request tracking, workflow routing, approvals, dashboards, reporting, role-based permissions, operational visibility tools, and business process automation.
+
+### Key Features
+- Workflow automation & request routing
+- Role-based approvals
+- Dashboard & reporting systems
+- Operational analytics
+- User & permission management
+- Database-driven architecture
+- REST API integration
+- Full automated testing suite
+- Front-end automated testing
+
+### Tech Stack
+ASP.NET Core Blazor • C# • Entity Framework Core • MySQL • REST APIs • Automated Testing
+
+- GitHub: https://github.com/davidvro139/OtechWorkFlow
+- Live Demo: https://otechworkflow.onrender.com
 
 ---
 
-## TaskFlow QA Training App
-A realistic project management web application designed to help students learn QA workflows, API testing, SQL validation, automation testing, and Agile development practices.
+## eTrack v2
+Modern training and student tracking platform focused on operational efficiency, progress tracking, reporting, and workflow-driven processes.
 
-**Technologies:** React, SQL, APIs, QA Testing Concepts
+Designed to improve visibility into student and operational data through dashboards, tracking systems, reporting tools, and streamlined workflows.
+
+### Key Features
+- Student & training tracking
+- Reporting dashboards
+- Workflow-based processes
+- Operational visibility tools
+- Role-based access
+- Data management systems
+- Full automated testing suite
+- Front-end automated testing
+
+### Tech Stack
+Node.js • Express • JavaScript • MySQL • REST APIs • Automated Testing
+
+- GitHub: https://github.com/davidvro139/etrack-v2
+- Live Demo: https://etrack-demo.onrender.com/
 
 ---
 
-## OctoPrint Desktop Client
-C# WPF application for sending and monitoring 3D prints through OctoPrint, including print status monitoring and file preview functionality.
+# Technical Experience
 
-**Technologies:** C#, WPF, REST APIs
+## Workflow Automation & Operations
+- Workflow automation systems
+- Internal business applications
+- Request management systems
+- Reporting dashboards
+- Process improvement
+- Operational analytics
+- Data-driven decision support
+- User training & documentation
+- Educational technology systems
 
----
+## Software Development
+- C#
+- ASP.NET Core / Blazor
+- JavaScript
+- Node.js
+- REST APIs
+- Entity Framework Core
+- WPF Desktop Applications
+- HTML / CSS
+- API integrations
 
-## Engineering & Embedded Systems Development
-Developed embedded monitoring systems, reporting infrastructure, and engineering support tools while working in the test systems area at :contentReference[oaicite:0]{index=0} *(formerly Orbital ATK)*.
+## Databases & Data Systems
+- MySQL
+- SQL Server
+- PostgreSQL
+- Database design
+- Data validation
+- Data reporting
+- Query development
+- Data-driven applications
+- Reporting & analytics systems
 
-Projects included:
-- Embedded microcontroller server systems
-- Environmental monitoring systems
-- Embedded web interfaces
-- Data reporting systems
-- Fortran-to-C++ software conversions
-- Engineering utility software
-
-**Technologies:** C++, Embedded Systems, Networking, Data Reporting
+## Software Quality & Testing
+- Automated testing
+- Front-end automated testing
+- Workflow validation
+- QA process concepts
+- API testing
+- CI/CD concepts
+- Regression testing concepts
 
 ---
 
 # Professional Experience
 
-## Software Development Instructor & Department Leadership
+## Software Development Coordinator / Technical Educator
+Ogden-Weber Technical College
 
-Over the past 15+ years, I have:
-
-- Taught software development and programming courses
-- Led software development programs and instructors
-- Served in department leadership over:
-  - Software Development
-  - IT Programs
-  - Web Design
-  - Graphic Design
-- Designed curriculum and project-based learning systems
-- Mentored students and instructors
-- Built real-world technical training projects aligned with industry expectations
-- Helped students develop practical skills in programming, databases, debugging, testing, version control, and software workflows
-
-### Areas Taught
-
-- C#
-- SQL
-- JavaScript
-- HTML/CSS
-- Databases
-- Software Design
-- Debugging and Troubleshooting
-- Git and Version Control
-- QA and Testing Concepts
+- Teach software development and technical problem-solving concepts
+- Develop curriculum and hands-on technical learning projects
+- Work with workflow systems, educational technology, and operational processes
+- Support students in programming, databases, QA, automation, and web technologies
 
 ---
 
-## Software Developer — Northrop Grumman *(formerly Orbital ATK)*
+## Software Developer
+Orbital ATK / Northrop Grumman
 
-Worked as a C++ developer in the test systems area developing embedded and server-side engineering tools, including:
+Worked on internal engineering and operational systems including:
 
-- Embedded microcontroller server systems
-- Environmental monitoring systems with temperature and humidity sensors
-- Network-connected monitoring and reporting infrastructure
-- Embedded web interfaces for device monitoring and control
-- PC server applications for maintenance, reporting, and engineering review
-- Legacy Fortran-to-C++ software conversions
-- Engineering utility tools including plotter-format-to-PDF conversion software
-- Data acquisition and reporting systems
+- Embedded monitoring systems
+- Sensor & environmental monitoring platforms
+- C++ development
+- Internal server tools
+- Network-connected monitoring systems
+- Data collection & reporting tools
+- Engineering support applications
+- Legacy software modernization
 
 ---
 
 ## Freelance Software Developer
 
-Developed custom software solutions for small businesses and clients, including:
+Developed software and web solutions including:
 
-- Multi-user restaurant point-of-sale systems
-- Network-connected inventory and order management systems
-- Business reporting tools
-- Custom desktop applications
+- Multi-user point-of-sale systems
+- Inventory management systems
+- Database-driven applications
+- Internal business software
 - Web development projects
-- Database-driven business software
-
-Focused on building practical systems designed around reliability, usability, and solving real operational problems.
+- Reporting & operational tools
 
 ---
 
-# Technical Focus
+# Certifications & Education
 
-## Primary Technologies
-
-- C#
-- C++
-- SQL
-- ASP.NET
-- JavaScript
-- HTML/CSS
-- Git/GitHub
-- WPF/Desktop Applications
-- Embedded Systems Development
-- Database Design
-
-## Additional Experience
-
-- Visual Basic
-- Java
-- Python
-- PHP
-- React
-- QA and testing workflows
-- Microcontroller communication
-- Data acquisition systems
+- CompTIA A+
+- CompTIA Network+
+- Canvas Certified Educator
+- Weber State University Adult Learning / Teaching Adult Learners Program
+- Ongoing development in workflow automation, QA systems, reporting tools, and full-stack development
 
 ---
 
-# Leadership & Education
+# Current Focus
 
-- 15+ years teaching software development
-- Department leadership across multiple technology disciplines
-- Curriculum and program development
-- Project-based technical education
-- Student mentoring and workforce preparation
-- Technical communication and instructional design
-
----
-
-# Personal Interest Projects
-
-I enjoy building practical software and technical tools involving:
-
-- Automation
-- Reporting systems
-- 3D printing
-- Embedded systems
-- Educational tools
-- Data processing
-- AI-assisted workflows
+Currently focused on:
+- Workflow automation platforms
+- Internal business systems
+- Reporting & analytics applications
+- Educational technology
+- ASP.NET Core & Blazor development
+- Database-driven systems
+- QA & automated testing workflows
+- Process automation solutions
 
 ---
 
-# Currently Building
+# GitHub
 
-- QA training and testing projects
-- C# desktop utilities
-- Educational software tools
-- GitHub portfolio projects
-- AI-assisted development workflows
+I use GitHub as both a professional portfolio and active development workspace. Featured repositories include architecture planning, documentation, automated testing, and ongoing development work.
+
+Profile: https://github.com/davidvro139
