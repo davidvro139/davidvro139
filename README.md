@@ -146,6 +146,9 @@ Developed software and web solutions including:
 
 # Certifications & Education
 
+- Associate's degree in Information Technology from Ogden-Weber Tech College
+- Over 70 credits towards a bachelors in Computer Science from Weber State University
+- CompTIA A+
 - CompTIA A+
 - CompTIA Network+
 - Canvas Certified Educator
