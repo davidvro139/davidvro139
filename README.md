@@ -1,10 +1,12 @@
 # David
 
-Full-Stack Software Developer | Workflow Automation & Internal Systems | Technical Educator
+Full-Stack Software Developer | Workflow Automation & Internal Systems | IT Systems & Infrastructure | Technical Educator
 
 Software developer and technical educator with experience building workflow systems, internal business applications, reporting tools, automation platforms, database-driven software, and educational technology solutions.
 
 My background includes full-stack web development, desktop software, database design, workflow/process automation, embedded systems, reporting systems, and technical instruction. I enjoy building practical systems that improve operational efficiency, reduce manual work, and provide clear visibility through dashboards, automation, and reporting tools.
+
+Alongside development work, I have hands-on IT systems engineering experience — server administration, virtualization, networking, and security — built through real infrastructure projects and reinforced by leading a college IT program, including standing up its first cybersecurity curriculum.
 
 ---
 
@@ -57,6 +59,25 @@ Node.js • Express • JavaScript • MySQL • REST APIs • Automated Testing
 
 ---
 
+## Residential Enterprise Infrastructure Project
+A home network and server environment designed and documented the way a real IT department would build one — not a demo. Built to double as a working systems-engineering portfolio, with a job-alignment map showing how each part maps to enterprise IT systems engineering functions.
+
+### Key Features
+- VLAN-segmented network design (7 segments, including a genuine landlord/tenant network boundary)
+- Full IP addressing plan: subnetting, DHCP scopes, and dual-stack IPv4/IPv6 (ULA)
+- Dual-NAS storage with backup replication and scheduled disaster-recovery restore testing
+- Proxmox hypervisor virtualization (migrating from VMware)
+- Monitoring & alerting stack (Home Assistant + Uptime Kuma)
+- Camera/access-control (NVR) security system design
+- Documented with architecture decision records, runbooks, an equipment inventory, a risk register, and an engineering journal
+
+### Tech Stack
+Proxmox • VMware • VLANs / Layer 3 networking • Synology NAS • Home Assistant • MQTT • Uptime Kuma • MkDocs
+
+- GitHub: https://github.com/davidvro139/residential-infrastructure-project
+
+---
+
 # Technical Experience
 
 ## Workflow Automation & Operations
@@ -80,6 +101,17 @@ Node.js • Express • JavaScript • MySQL • REST APIs • Automated Testing
 - WPF Desktop Applications
 - HTML / CSS
 - API integrations
+
+## IT Systems & Infrastructure
+- Linux server administration
+- Windows Server & Active Directory
+- PowerShell scripting
+- VMware & Proxmox virtualization
+- VLAN-based network segmentation
+- Cat5/Ethernet cabling & termination
+- Disaster recovery & backup validation
+- Cybersecurity program development & curriculum design
+- Endpoint security & hygiene
 
 ## Databases & Data Systems
 - MySQL
@@ -105,13 +137,21 @@ Node.js • Express • JavaScript • MySQL • REST APIs • Automated Testing
 
 # Professional Experience
 
-## Software Development Coordinator / Technical Educator
-Ogden-Weber Technical College
+## Software Development Coordinator
+Ogden-Weber Technical College *(current)*
 
 - Teach software development and technical problem-solving concepts
 - Develop curriculum and hands-on technical learning projects
 - Work with workflow systems, educational technology, and operational processes
 - Support students in programming, databases, QA, automation, and web technologies
+
+## Computer Technology Coordinator
+Ogden-Weber Technical College *(~3 years)*
+
+Directed the Software Development, Web & Graphic Design, and IT programs:
+- Led modernization of program curriculum toward digital resources and hands-on physical labs
+- Built the college's first Cybersecurity program, meeting directly with area employers to determine industry security needs and align training to them
+- Managed cross-departmental and industry-partner coordination across all three programs
 
 ---
 
@@ -128,6 +168,12 @@ Worked on internal engineering and operational systems including:
 - Data collection & reporting tools
 - Engineering support applications
 - Legacy software modernization
+
+**Infrastructure work alongside development:**
+- Ran and terminated Cat5 Ethernet cabling
+- Stood up and maintained a Linux server
+- Stood up and maintained a network time server
+- Stood up and maintained a rights-management server
 
 ---
 
@@ -149,7 +195,6 @@ Developed software and web solutions including:
 - Associate's degree in Information Technology from Ogden-Weber Tech College
 - Over 70 credits towards a bachelors in Computer Science from Weber State University
 - CompTIA A+
-- CompTIA A+
 - CompTIA Network+
 - Canvas Certified Educator
 - Weber State University Adult Learning / Teaching Adult Learners Program
@@ -168,6 +213,7 @@ Currently focused on:
 - Database-driven systems
 - QA & automated testing workflows
 - Process automation solutions
+- IT systems engineering: virtualization, networking, and disaster recovery, via the Residential Enterprise Infrastructure Project
 
 ---
 
