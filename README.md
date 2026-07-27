@@ -66,13 +66,13 @@ A home network and server environment designed and documented the way a real IT 
 - VLAN-segmented network design (7 segments, including a genuine landlord/tenant network boundary)
 - Full IP addressing plan: subnetting, DHCP scopes, and dual-stack IPv4/IPv6 (ULA)
 - Dual-NAS storage with backup replication and scheduled disaster-recovery restore testing
-- Proxmox hypervisor virtualization (migrating from VMware)
+- Proxmox VE hypervisor virtualization — chosen deliberately over VMware ESXi/vSphere after evaluating post-Broadcom licensing costs
 - Monitoring & alerting stack (Home Assistant + Uptime Kuma)
 - Camera/access-control (NVR) security system design
 - Documented with architecture decision records, runbooks, an equipment inventory, a risk register, and an engineering journal
 
 ### Tech Stack
-Proxmox • VMware • VLANs / Layer 3 networking • Synology NAS • Home Assistant • MQTT • Uptime Kuma • MkDocs
+Proxmox VE • VLANs / Layer 3 networking • Synology NAS • Home Assistant • MQTT • Uptime Kuma • MkDocs
 
 - GitHub: https://github.com/davidvro139/residential-infrastructure-project
 
@@ -106,7 +106,7 @@ Proxmox • VMware • VLANs / Layer 3 networking • Synology NAS • Home Assi
 - Linux server administration
 - Windows Server & Active Directory
 - PowerShell scripting
-- VMware & Proxmox virtualization
+- Proxmox VE virtualization (home infrastructure project); VMware Workstation/Player for basic local virtualization
 - VLAN-based network segmentation
 - Cat5/Ethernet cabling & termination
 - Disaster recovery & backup validation
