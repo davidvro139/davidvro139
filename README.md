@@ -75,6 +75,7 @@ A home network and server environment designed and documented the way a real IT 
 Proxmox VE • VLANs / Layer 3 networking • Synology NAS • Home Assistant • MQTT • Uptime Kuma • MkDocs
 
 - GitHub: https://github.com/davidvro139/residential-infrastructure-engineering
+- Live Docs: https://davidvro139.github.io/residential-infrastructure-engineering/
 
 ---
 
