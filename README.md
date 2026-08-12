@@ -139,7 +139,7 @@ Proxmox VE • VLANs / Layer 3 networking • Synology NAS • Home Assistant �
 # Professional Experience
 
 ## Software Development Coordinator
-Ogden-Weber Technical College *(current)*
+Ogden-Weber Technical College *(~12 years - current)*
 
 - Teach software development and technical problem-solving concepts
 - Develop curriculum and hands-on technical learning projects
@@ -154,6 +154,13 @@ Directed the Software Development, Web & Graphic Design, and IT programs:
 - Built the college's first Cybersecurity program, meeting directly with area employers to determine industry security needs and align training to them
 - Managed cross-departmental and industry-partner coordination across all three programs
 
+## Information Technology Instructor
+Ogden-Weber Technical College *(1 year)*
+
+- Teach information technology, software development, and technical problem-solving concepts
+- Develop curriculum and hands-on technical learning projects
+- Work with workflow systems, educational technology, and operational processes
+- Support students in powershell, comptia certs, active directory, windows server administration, linux administration, vmware tools, programming, databases, QA, automation, and web technologies
 ---
 
 ## Software Developer
