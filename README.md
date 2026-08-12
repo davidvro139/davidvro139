@@ -183,6 +183,8 @@ Worked on internal engineering and operational systems including:
 - Stood up and maintained a network time server
 - Stood up and maintained a rights-management server
 
+**Detailed technical write-ups for the roles above:** https://github.com/davidvro139/professional-history-pre-tech-college
+
 ---
 
 ## Freelance Software Developer
@@ -195,6 +197,8 @@ Developed software and web solutions including:
 - Internal business software
 - Web development projects
 - Reporting & operational tools
+  
+**Detailed technical write-ups for the roles above:** https://github.com/davidvro139/professional-history-pre-tech-college
 
 ---
 
